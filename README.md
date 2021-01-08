@@ -1,4 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eugena-mikhaylikova-bb6b2263)](https://www.linkedin.com/in/eugena-mikhaylikova-bb6b2263)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/eugena.mihailikova)](https://www.facebook.com/eugena.mihailikova)
+[![VK Badge](https://img.shields.io/badge/-VK-4c75a3?style=flat-square&labelColor=4c75a3&logo=vk&logoColor=white&link=https://vk.com/yaeugena)](https://vk.com/yaeugena)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-c32aa3?style=flat-square&labelColor=c32aa3&logo=instagram&logoColor=white&link=https://www.instagram.com/eugena.mihailikova/)](https://www.instagram.com/eugena.mihailikova/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=79122121080&text=Hi,+Eugena!)](https://api.whatsapp.com/send?phone=79122121080&text=Hi,+Eugena!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/eugena)](https://t.me/eugena)
 
