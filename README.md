@@ -7,7 +7,9 @@ I'm Eugena!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugena&layout=compact&count_private=true&show_icons=True)
 
-Follow me around the Web:
+
+
+**Follow me around the Web:**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eugena-mikhaylikova-bb6b2263)](https://www.linkedin.com/in/eugena-mikhaylikova-bb6b2263)
 [![Habr Badge](https://img.shields.io/badge/-Habr-65a3be?style=flat-square&labelColor=65a3be&logo=Habr&logoColor=white&link=https://career.habr.com/emihaylikova)](https://career.habr.com/emihaylikova)
