@@ -4,7 +4,7 @@ Hi everyone 👋 I'm Eugena!
 
 ##### About me:
 
-.                        |.
+key                      |value
 -------------------------|-------------------------------------------------------------------
 Domain Knowledge         | ![Mathematics Badge](https://img.shields.io/badge/-Mathematics-f73e3e?style=flat&color=f73e3e) ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-3cd047?style=flat&color=3cd047) ![Computer Science Badge](https://img.shields.io/badge/-Computer%20Science-7b18a2?style=flat&color=7b18a2) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-fbc157?style=flat&color=fbc157)
 Programming Languages    | Python C++ JavaScript HTML CSS Shell
