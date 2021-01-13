@@ -13,7 +13,7 @@ Scientific Tools         | Jupyter Notebook pandas numpy scikit-learn XGBoost Ca
 DataBases                | PostgreSQL MySQL Oracle SQLite MongoDB Redis
 IDE, Tools               | Sublime PyCharm WebStorm Inkscape
 Version Control          | git GitHub BitBucket GitLab
-OS                       | Linux MacOS
+OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white&color=FCC624) ![macOS Badge](https://img.shields.io/badge/-macOS-000?style=flat-square&logo=Apple&logoColor=white&color=000)
 
 
 
