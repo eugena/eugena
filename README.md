@@ -6,8 +6,8 @@ Hi everyone 👋 I'm Eugena!
 
 key                      |value
 -------------------------|-------------------------------------------------------------------
-Domain Knowledge         | ![Mathematics Badge](https://img.shields.io/badge/-Mathematics-f73e3e?style=flat&color=f73e3e) ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-3cd047?style=flat&color=3cd047) ![Computer Science Badge](https://img.shields.io/badge/-Computer%20Science-7b18a2?style=flat&color=7b18a2) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-fbc157?style=flat&color=fbc157)
-Programming Languages    | Python C++ JavaScript HTML CSS Shell
+Domain Knowledge         | ![Mathematics Badge](https://img.shields.io/badge/-Mathematics-f73e3e?style=flat-square&color=f73e3e) ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-3cd047?style=flat-square&color=3cd047) ![Computer Science Badge](https://img.shields.io/badge/-Computer%20Science-7b18a2?style=flat-square&color=7b18a2) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-fbc157?style=flat-square&color=fbc157)
+Programming Languages    | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&color=3776AB) ![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E) ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white&color=E34F26) ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white&color=1572B6) ![Shell Badge](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=powershell&logoColor=white&color=4EAA25)
 Frameworks               | Django Flask Jquery Bootstrap
 Scientific Tools         | Jupyter Notebook pandas numpy scikit-learn XGBoost CatBoost LightGBM Keras
 DataBases                | PostgreSQL MySQL Oracle SQLite MongoDB Redis
