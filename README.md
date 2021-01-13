@@ -2,8 +2,28 @@
 ### Hi there 👋
 
 I'm Eugena!
+<!--
+**About me:**
+
+_                        |_
+-------------------------|-------------------------------------------------------------------
+Domain Knowledge         | Mathimatics Computer Science Software Development Machine Learning
+Programming Languages    | Python C++ JavaScript HTML CSS Shell
+Frameworks               | Django Flask Jquery Bootstrap
+Scientific Tools         | Jupyter Notebook pandas numpy scikit-learn XGBoost CatBoost LightGBM Keras
+DataBases                | PostgreSQL MySQL Oracle SQLite MongoDB Redis
+IDE, Tools               | Sublime PyCharm WebStorm Inkscape
+Version Control          | git GitHub BitBucket GitLab
+OS                       | Linux MacOS
+-->
+
+
+**My GitHub Stats:**
 
 [![Singleton11's github stats](https://github-readme-stats.vercel.app/api?username=eugena&count_private=true&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
+
+
+**Top Languages Here:**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugena&layout=compact&count_private=true&show_icons=True)
 
