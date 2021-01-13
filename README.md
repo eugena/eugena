@@ -1,13 +1,12 @@
 
-### Hi there 👋
+Hi everyone 👋 I'm Eugena!
 
-I'm Eugena!
-<!--
+
 **About me:**
 
-_                        |_
+.                        |.
 -------------------------|-------------------------------------------------------------------
-Domain Knowledge         | Mathimatics Computer Science Software Development Machine Learning
+Domain Knowledge         | ![Mathematics Badge](https://img.shields.io/badge/-Mathematics-f73e3e?style=flat&color=f73e3e) ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-3cd047?style=flat&color=3cd047) ![Computer Science Badge](https://img.shields.io/badge/-Computer%20Science-7b18a2?style=flat&color=7b18a2) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-fbc157?style=flat&color=fbc157)
 Programming Languages    | Python C++ JavaScript HTML CSS Shell
 Frameworks               | Django Flask Jquery Bootstrap
 Scientific Tools         | Jupyter Notebook pandas numpy scikit-learn XGBoost CatBoost LightGBM Keras
@@ -15,7 +14,7 @@ DataBases                | PostgreSQL MySQL Oracle SQLite MongoDB Redis
 IDE, Tools               | Sublime PyCharm WebStorm Inkscape
 Version Control          | git GitHub BitBucket GitLab
 OS                       | Linux MacOS
--->
+
 
 
 **My GitHub Stats:**
