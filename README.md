@@ -1,8 +1,8 @@
 
-Hi everyone 👋 I'm Eugena!
+Hi everyone 👋🏻 I'm Eugena!
 
 
-##### My life is very bright and colorful 😀:
+##### My life is very bright and colorful :grinning::
 
 key                      |value
 -------------------------|-------------------------------------------------------------------
