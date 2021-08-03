@@ -33,7 +33,7 @@ OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FC
 ##### Follow me around the web 👍🏻:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eugena-mikhaylikova-bb6b2263)](https://www.linkedin.com/in/eugena-mikhaylikova-bb6b2263)
-[![Habr Badge](https://img.shields.io/badge/-Habr-65a3be?style=flat-square&labelColor=65a3be&logo=Habr&logoColor=white&link=https://career.habr.com/emihaylikova)](https://career.habr.com/emihaylikova)
+[![Habr Badge](https://img.shields.io/badge/-Habr-6274bc?style=flat-square&labelColor=6274bc&logo=Habr&logoColor=white&link=https://career.habr.com/emihaylikova)](https://career.habr.com/emihaylikova)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=79122121080&text=Hi,+Eugena!)](https://api.whatsapp.com/send?phone=79122121080&text=Hi,+Eugena!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&labelColor=26A5E4&logo=telegram&logoColor=white&link=https://t.me/eugena)](https://t.me/eugena)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/yaeugena)](https://twitter.com/yaeugena)
